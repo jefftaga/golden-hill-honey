@@ -1,4 +1,3 @@
-/* Global Reset */
 * {
   margin: 0;
   padding: 0;
@@ -150,23 +149,23 @@ header {
   background: #b8860b;
 }
 
-/* About Preview Section */
+/* About Preview Section (home page) */
 .about-preview {
   max-width: 800px;
   margin: 3rem auto;
   padding: 2rem;
   text-align: center;
-  background-color: #fdf6e3; /* soft cream background */
+  background-color: #fdf6e3;
   border-radius: 12px;
 }
 
 .about-preview h2 {
-  color: #ffd700; /* golden accent */
+  color: #ffd700;
   margin-bottom: 1rem;
 }
 
 .about-preview p {
-  color: #4b2e2e; /* deep warm brown for text */
+  color: #4b2e2e;
   font-size: 1.1rem;
   line-height: 1.6;
   margin-bottom: 1.5rem;
@@ -183,9 +182,9 @@ header {
 }
 
 .about-preview .btn:hover {
-  background-color: #ffe066; /* lighter golden hover */
+  background-color: #ffe066;
 }
-/* Featured Products Grid */
+/* Featured Products Grid (home page)*/
 .featured-products {
   padding: 2rem;
   text-align: center;
